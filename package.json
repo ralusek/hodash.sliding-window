@@ -1,6 +1,6 @@
 {
   "name": "hodash.sliding-window",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "keywords": [],
   "author": "Tomas Savigliano",
@@ -35,7 +35,7 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.3.0",
     "ttypescript": "^1.5.15",
-    "typescript": "^5.0.3",
+    "typescript": "^5.7.2",
     "typescript-transform-paths": "^3.4.6"
   }
 }
